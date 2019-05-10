@@ -1,6 +1,6 @@
 {
   "name": "react-native-chinamap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "use svg to display chinamap",
   "main": "index.js",
   "scripts": {
@@ -9,9 +9,7 @@
   "peerDependencies": {
     "react-native": ">=0.50.0",
     "react": "*",
-    "prop-types": "^15.5.7"
-  },
-  "dependencies": {
+    "prop-types": "^15.5.7",
     "react-native-svg": "6.4.1"
   },
   "repository": {

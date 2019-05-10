@@ -6,12 +6,10 @@
 
 import React, { Component } from 'react';
 import {
-  Platform,
   StyleSheet,
-  Text,
   View
 } from 'react-native';
-import ChinaMap from 'react-native-map';
+import ChinaMap from 'react-native-chinamap';
 import common from './config/common';
 
 export default class App extends Component {
