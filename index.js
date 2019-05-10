@@ -144,7 +144,7 @@ const styles = StyleSheet.create({
   },
   legendDesc: {
     flex: 1,
-    fontFamily: 'SFProText-Bold',
+    fontFamily: 'PingFangSC-Regular',
     fontSize: 11,
     color: '#909095',
     alignItems: 'center',

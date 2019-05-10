@@ -5139,12 +5139,10 @@ react-is@^16.3.1, react-is@^16.8.1, react-is@^16.8.4:
   resolved "http://192.168.30.248:4873/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha1-W7weLSkUHJ+9/tRWND/ivEMKahY=
 
-react-native-chinamap@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/react-native-chinamap/-/react-native-chinamap-1.0.0.tgz#55ad7968fca3fd82a16ba45fb0a5cf66b306925d"
-  integrity sha512-85iuOCx+n3abeVkNJkmSd2SZz2XZdQT1U35qvIC+c0LWPROs0Y91RlpXps3B76xLW7rpJI5jjUVw2+BiUtuo1w==
-  dependencies:
-    react-native-svg "6.4.1"
+react-native-chinamap@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/react-native-chinamap/-/react-native-chinamap-1.0.1.tgz#a963373da859cd1600aa84613fb9a63c25e9655e"
+  integrity sha512-DaNBntpyIwuMXnD+Fvl5o9a0UVdhnouMSseenRXd207fRrnPqPqkSXJTRtVebRYm0cIiEudOwvdqtXXEZfxBZA==
 
 react-native-svg@6.4.1:
   version "6.4.1"
