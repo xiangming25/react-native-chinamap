@@ -2,7 +2,11 @@
 This is a component for display china distribution map by use svg
 
 ## show Cases
+
+### IOS
 <img width="366" alt="WX20190515-142405@2x" src="https://user-images.githubusercontent.com/7913751/57752923-43fe3180-771d-11e9-8560-ab6de87d8a84.png">
+
+### Android
 <img width="342" alt="WX20190515-142932@2x" src="https://user-images.githubusercontent.com/7913751/57753147-e7e7dd00-771d-11e9-80f1-4fc90d5b4be4.png">
 
 ## Prerequisites
