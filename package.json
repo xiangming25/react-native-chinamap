@@ -1,6 +1,6 @@
 {
   "name": "react-native-chinamap",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "use svg to display chinamap",
   "main": "index.js",
   "scripts": {
