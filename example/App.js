@@ -34,6 +34,9 @@ export default class App extends Component {
         code: 61,
         provinceGradation: 4,
       }, {
+        code: 62,
+        provinceGradation: 3,
+      }, {
         code: 65,
         name: '新疆',
         provinceGradation: 5,
