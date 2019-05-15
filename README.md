@@ -127,3 +127,15 @@ showShadow | boolean | true
 backgroundColor | string | #ffffff
 stroke | string | #dbdbdf
 strokeWidth | string | 0.5
+
+## Run example
+```
+git clone https://github.com/xiangming25/react-native-chinamap.git
+
+cd react-native-chinamap/example
+
+npm i
+
+# run IOS: react-native run-ios
+# run Android: react-native run-android
+```
